@@ -1,0 +1,5 @@
+.gitignore
+.env
+/proj_explanation/
+.idea/
+db/__pycache__/
